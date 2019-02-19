@@ -1,2 +1,2 @@
-# rollercoasterstats
+# Roller Coaster Stats
 Statistics about roller coaster apps all over the world. Starting with a rest API, spring backend and an android app.
