@@ -1,0 +1,54 @@
+{
+  "stringProperties": [
+    {
+      "name": "Manufacturer",
+      "multiple": false,
+      "definedChoice": true
+    },
+    {
+      "name": "Elements",
+      "multiple": true,
+      "definedChoice": true
+    },
+    {
+      "name": "ImageUrls",
+      "multiple": true,
+      "definedChoice": false
+    },
+    {
+      "name": "Description",
+      "multiple": false,
+      "definedChoice": false
+    }
+  ],
+  "numberProperties": [
+    {
+      "name": "Speed",
+      "unit": "km/h"
+    },
+    {
+      "name": "Height",
+      "unit": "m"
+    },
+    {
+      "name": "Trains",
+      "unit": null
+    },
+    {
+      "name": "Cars per train",
+      "unit": null
+    },
+    {
+      "name": "Rows per car",
+      "unit": null
+    },
+    {
+      "name": "Seats per row",
+      "unit": null
+    },
+    {
+      "name": "Year opened",
+      "unit": null
+    }
+  ]
+}

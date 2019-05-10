@@ -1,2 +1,2 @@
-# Roller Coaster Stats
-Statistics about roller coaster apps all over the world. Starting with a rest API, spring backend and an android app.
+# Roller Coaster API
+API for accessing information about roller coasters all over the world.
