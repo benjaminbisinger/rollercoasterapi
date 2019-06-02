@@ -11,6 +11,7 @@ class ApiApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		assert(true)
 	}
 
 }
